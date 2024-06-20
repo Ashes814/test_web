@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/rozgflte/repositories/test_web/dist
-    - /bin/cp -R index.html $DEPLOYPATH
+    - export DEPLOYPATH=/home3/rozgflte/public_html/
+    - /bin/cp -R dist $DEPLOYPATH
