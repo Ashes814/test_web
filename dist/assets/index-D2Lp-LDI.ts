@@ -180,7 +180,7 @@ const alumnis =[
      position: "co-supervised, Assistant Professor, Education University of Hong Kong.",
      type: "Doctoral Student"},
     {id:3,
-     name: "ZU Jingyan",
+     name: "ZU Jinyan",
      position: "PhD Student, University of Hong Kong.",
      type: "Research Assistant"},
     {id:4,
