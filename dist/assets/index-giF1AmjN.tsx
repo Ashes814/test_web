@@ -96,7 +96,7 @@ const Tourism = () => {
                                     imageFront:"src/assets/images/ResearchArea/tourism/2020_tourism_network.webp",
                                     youTubeLink:"https://www.youtube.com/watch?v=XxyWzBUp-NU",
                                     bilibiliLink:"https://www.bilibili.com/video/BV1M5411V7ft/?vd_source=97a695383c4b98a4ed8b80d5fdecc716",
-                                    tencentLink:"https://v.qq.com/x/page/i3213kex22l.html",
+                                    tencentLink:"",
                                     type:"video",
                                     text:""
                                     }
