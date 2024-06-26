@@ -107,7 +107,7 @@ const news = [
       },
       {id:12,
         title:"MSL Phd student began exchange at EPFL.",
-        contents: "The Mobility Science Lab is delighted to announce that Yuqian Lin started her exchange program at Lab for Human-Oriented Mobility Eco-System (HOMES) at École Polytechnique Fédérale de Lausanne (EPFL) from 1 February, 2024. Yuqian is currently a PhD student at The Hong Kong Polytechnic University, supervised by Prof. Yang Xu. Her research focuses on human travel behavior and shared mobility. The exchange program will further rich her research experience and international academic connections..",
+        contents: "The Mobility Science Lab is delighted to announce that Yuqian Lin started her exchange program at Lab for Human-Oriented Mobility Eco-System (HOMES) at École Polytechnique Fédérale de Lausanne (EPFL) from 1 February, 2024. Yuqian is currently a PhD student at The Hong Kong Polytechnic University, supervised by Prof. Yang Xu. Her research focuses on human travel behavior and shared mobility. The exchange program will further rich her research experience and international academic connections.",
         date: "1 Feb 2024",
         site: "EPFL",
         image: "src/assets/images/NewsImages/2024_yuqian.webp",
