@@ -211,6 +211,10 @@ const alumnis =[
      name: "CHEN Dachi",
      position: "Software Engineer, Meta Platforms Inc.",
      type: "Master Student"},
+    {id:11,
+     name: "CHEN Yuanyang",
+     position: "Algorithm Engineer, Vivo Inc.",
+     type: "Master Student"},
 ]
 
 const researchAreas = [
