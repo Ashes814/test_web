@@ -176,7 +176,7 @@ const alumnis =[
      type: "Doctoral Student"},
      
     {id:2,
-     name: "JIAN YI Izzy",
+     name: "JIAN Yi Izzy",
      position: "co-supervised, Assistant Professor, Education University of Hong Kong.",
      type: "Doctoral Student"},
     {id:3,
