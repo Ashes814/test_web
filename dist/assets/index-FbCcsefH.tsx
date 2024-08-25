@@ -31,7 +31,13 @@ const Cards = ({title, journal, imageFront, imageBack, link, isESI}:CardsProps) 
               onMouseEnter={handleFlip}
               onMouseLeave={handleFlip}
               href={link}
-              target='_blank'
+              target={link ? '_blank' : ''}
+              onClick={(e) => {
+                if (link == "") {
+                  e.preventDefault();
+                  alert('Coming soon...');
+                }
+              }}
               >
 
                   <motion.div 

@@ -35,7 +35,7 @@ type ProjectProps = {
     subSectionImg: string;
     cardList: CardItem[];
     videoList: VideoItem[];
-    coverCard: CoverItem | null;     
+    coverCard: CoverItem | null;    
     year:string;
 }
 

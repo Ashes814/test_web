@@ -6,6 +6,35 @@ const Behavior = () => {
     <section id="behavior" className="max-w-7xl mx-auto mt-40">
     <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-24">BEHAVIOR CHANGE & MODELLING</h2>
 
+    <ResearchProject subSectionTitle="Consumer Spending during the Covid-19 Pandemic"
+                  subSectionText="By leveraging extensive geolocated transaction data in South Korea, we analyze the spending behavior of both residents and domestic inbound travelers in Korean cities during the Covid-19 pandemic. We develop a set of econometric models to quantify the joint impact of disease severity and government policy responses (e.g., social distance; economic stimulus) on consumer spending. Through a case study in Jeju, followed by a nationwide analysis, we find that the pandemic had a dampening effect on residents’ spending, which remained stable and persistent. In contrast, travelers’ spending showed larger declines during outbreaks but recovered during stable periods. The effects of social distancing mandates and economic stimulus on consumer spending were significant and distinguishable. Despite the overall benefits of these combined policies, certain economic sectors benefited notably while others suffered, resulting in varying economic outcomes during and after the pandemic. These findings underscore the need for robust strategies in crisis management and economic resilience to mitigate the impacts of future pandemics."
+                  subSectionAnno={null}
+                  subSectionImg="src/assets/images/ResearchArea/behavior/covid_spending.webp"
+                  cardList={[
+                            {title:"Consumer spending during COVID-19 in a tourism city",
+                                  journal:"Annals of Tourism Research (Forthcoming)",
+                                  imageFront:"src/assets/images/ResearchArea/behavior/covid_spending_paper01_front.webp",
+                                  imageBack:"src/assets/images/JournalCovers/ATR.webp",
+                                  link:"",
+                                  isESI:false
+
+                            },
+                            {title:"Unraveling changes of spending behavior in pandemic cities: A nationwide study of South Korea",
+                              journal:"Computers, Environment and Urban Systems (Forthcoming)",
+                              imageFront:"src/assets/images/ResearchArea/behavior/covid_spending_paper02_front.webp",
+                              imageBack:"src/assets/images/JournalCovers/CEUS.webp",
+                              link:"",
+                              isESI:false
+
+                        }
+                          ]}
+                  videoList={[
+                              
+                  ]}
+                  coverCard={null}
+                  year={"2022 - 2024"}
+                          />
+
     <ResearchProject subSectionTitle="Changes of Transit Usage Behavior during the Covid-19 Pandemic"
                      subSectionText="Utilizing an extensive and longitudinal smart card dataset from Jeju, South Korea, we present a suite of novel methodologies to analyze the shifting patterns of transit usage among domestic inbound visitors and local inhabitants amid the Covid-19 pandemic. Our study uncovers a long-term decay of visitors’ transit usage, hinting that inbound travelers tended to use the transit system more conservatively as the pandemic endured. For local residents, we have developed a Bayesian Online Changepoint Detection (BOCD) framework to pinpoint significant shifts in individual transit usage frequency and assess how such changes were affected by pivotal government policies, such as risk alerts, social distancing mandates, public transit policies, and the relaxation of social distancing measures. Our findings indicate that only a subset of these policies had a marked influence. Specifically, the implementation of risk alerts would cause a surge of 277% to 317% in the number of individuals reducing their use of public transit. Conversely, the relaxation of social distancing measures was associated with a 134% to 155% rise in the number of users who increased their travel frequency."
                      subSectionAnno={null}
