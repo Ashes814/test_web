@@ -166,6 +166,19 @@ const groupMembers = [
      headImg: "src/assets/images/GroupMemberImage/ZhangOuwen.webp",
      name: "ZHANG Ouwen",
      position: "Research Assistant"},
+    {id:10,
+      headImg: "src/assets/images/GroupMemberImage/LuoYuxiao.webp",
+      name: "Luo Yuxiao",
+      position: "PhD Student"},
+    {id:11,
+      headImg: "src/assets/images/GroupMemberImage/ShiBowen.webp",
+      name: "Shi Bowen",
+      position: "PhD Student"},
+    {id:12,
+      headImg: "src/assets/images/GroupMemberImage/LiGuangyue.webp",
+      name: "Li Guangyue",
+      position: "PhD Student"},
+
 
 ]
 
