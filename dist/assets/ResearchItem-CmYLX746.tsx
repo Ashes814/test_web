@@ -12,10 +12,10 @@ type props = {
 const ResearchItem = ({id, title, contents, image, link}: props) => {
   return (
     <>
-    <Link className="hidden md:block" to={link} onClick={() => {
+    <Link className="hidden md:flex justify-center items-center" to={link} onClick={() => {
         window.scrollTo(0, 0)
       }}>
-    {id % 2 == 0 ? (<div className="grid grid-cols-3 mb-24">
+    {id % 2 == 0 ? (<div className="grid grid-cols-3 mb-24 w-[90%]">
                         {/* Intro Card */}
                         <motion.div className='flex justify-center items-center relative z-10'
                         initial="hidden"
@@ -33,16 +33,16 @@ const ResearchItem = ({id, title, contents, image, link}: props) => {
                                                 bg-opacity-90 
                                                 rounded-lg 
                                                 shadow-2xl 
-                                                w-96 
-                                                h-72 
+                                                w-80 
+                                                h-64 
                                                 p-8
                                                 absolute
                                                 left-24
                                                 "
                                                 
                                     >
-                                    <div className="text-3xl font-bold mb-2">{title}</div>
-                                    <div className="text-xl font-thin">{contents}</div>
+                                    <div className="text-2xl font-bold mb-2">{title}</div>
+                                    <div className="text-base font-thin">{contents}</div>
                             </div>
                         </motion.div>
 
@@ -56,7 +56,7 @@ const ResearchItem = ({id, title, contents, image, link}: props) => {
                                         visible: { opacity: 1, x: 0 },
                                     }}
                                     />
-                    </div>): (  <div id="research-area-container" className="grid grid-cols-3 mb-24">
+                    </div>): (  <div id="research-area-container" className="grid grid-cols-3 mb-24 w-[90%]">
 
                                     {/* RA Image */}
                                     <motion.img className="col-span-2 shadow-2xl" src={new URL(`/${image}`, import.meta.url).href} alt="ra1" initial="hidden"
@@ -85,15 +85,15 @@ const ResearchItem = ({id, title, contents, image, link}: props) => {
                                                         bg-opacity-90 
                                                         rounded-lg 
                                                         shadow-2xl 
-                                                        w-96 
-                                                        h-72 
+                                                        w-72 
+                                                        h-64 
                                                         p-8
                                                         absolute
                                                         right-24
                                                         z-10"
                                             >
-                                            <div className="text-3xl font-bold mb-2">{title}</div>
-                                            <div className="text-xl font-thin">{contents}</div>
+                                            <div className="text-2xl font-bold mb-2">{title}</div>
+                                            <div className="text-base font-thin">{contents}</div>
                                         </div>
                                     </motion.div>
 
