@@ -1427,7 +1427,7 @@ const publications = [
     {id: 61,
       title: "Unraveling changes of spending behavior in pandemic cities: A nationwide study of South Korea.",
       authors: "Sun, M., Xu, Y., Zhong, C., Ren, M., and Park, S.",
-      journal: "Computers, Environment and Urban Systems, 114, p.102181",
+      journal: "Computers, Environment and Urban Systems, 114, p.102181.",
       year: 2024,
       doi: "https://doi.org/10.1016/j.compenvurbsys.2024.102181",
       pdf:"src/assets/pdfs/2024_CEUS_Consumer_Spending.pdf",
