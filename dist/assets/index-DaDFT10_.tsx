@@ -23,7 +23,7 @@ const Behavior = () => {
                               journal:"Computers, Environment and Urban Systems",
                               imageFront:"src/assets/images/ResearchArea/behavior/covid_spending_paper02_front.webp",
                               imageBack:"src/assets/images/JournalCovers/CEUS.webp",
-                              link:"",
+                              link:"https://doi.org/10.1016/j.compenvurbsys.2024.102181",
                               isESI:false
 
                         }
