@@ -11,7 +11,7 @@ const Prediction = () => {
       <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-24">MOBILITY PREDICTION & DEMAND FORECAST</h2>
 
       <ResearchProject subSectionTitle="Demand Forecast for Bike Sharing Systems"
-                       subSectionText="Bike sharing systems have become a crucial component of the contemporary urban transportation ecosystem. In this project, we employ a data-driven approach to explore the usage patterns of these systems within cities, encompassing both dockless and station-based models, and examine how urban form and built environment characteristics impact ridership. Simultaneously, by harnessing historical travel data and environmental observations, we develop advanced deep learning algorithms aimed at providing precise and short-term forecasts of travel demand."
+                       subSectionText="Bike sharing systems have become a crucial component of the contemporary urban transportation ecosystem. In this project, we employ a data-driven approach to explore the usage patterns of these systems within cities, encompassing both dockless and station-based models, and examine how urban form and built environment characteristics impact ridership. Simultaneously, by harnessing historical travel data and environmental observations, we develop advanced deep learning algorithms aimed at providing precise and short-term forecasts of bike sharing travel demand."
                        subSectionAnno={null}
                        subSectionImg={"src/assets/images/ResearchArea/Prediction/prediction1.webp"}
                        cardList={[
