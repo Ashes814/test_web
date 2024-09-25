@@ -123,7 +123,15 @@ const news = [
         image: "src/assets/images/NewsImages/2024_mengqi.webp",
         link:"https://www.ucl.ac.uk/",
         year:2024
-
+      },
+      {id:14,
+        title:"Curated collection on Covid-19 pandemic and behavior change.",
+        contents: "After several years of dedicated efforts, MSL is pleased to present a curated collection of research articles on Covid-19 pandemic and behavior change. The articles showcase our work on utilizing extensive mobility datasets – including LBS navigation, smart card transactions, and geolocated transaction data – to study how the pandemic has shaped transit usage behavior, tourism travel, and consuming spending within and across cities.",
+        date: "Sep 2024",
+        site: "Check the Article Collection",
+        image: "src/assets/images/NewsImages/2024_curate.webp",
+        link:"#/behavior",
+        year:2024
       },
 
   
@@ -1442,6 +1450,24 @@ const publications = [
               publisher={Elsevier}\n\
               }"
       }, 
+      {id: 62,
+        title: "Consumer spending during COVID-19 in a tourism city.",
+        authors: "Ren, M., Xu, Y., Park, S., Huang, X., Sun, M., Xia, J., and Koh, S.",
+        journal: "Annals of Tourism Research, 109, p.103830.",
+        year: 2024,
+        doi: "https://doi.org/10.1016/j.annals.2024.103830",
+        pdf:"src/assets/pdfs/2024_ATR_Covid_Consumer_Spending_Jeju.pdf",
+        abstract: "Leveraging large-scale transaction data, this study quantifies the impact of COVID-19 and policy responses on the spending behavior of both residents and domestic inbound travelers in Jeju, Korea. Findings reveal that both local and national COVID-19 situations significantly affected the spending behavior of both groups. Residents were more sensitive to local cases, while travelers were equally affected by local and national cases. Social distancing minimally impacted resident spending but caused over 20 % reductions in traveler spending. Stimulus payments boosted spending by over 10 % for residents without diminishing the effects of social distancing. Despite the overall benefit of these combined policies, certain economic sectors benefited notably while others suffered, thus leaving them with varying fates during and after the pandemic.",
+        cite: "@article{REN2024103830,\n\
+                title = {Consumer spending during COVID-19 in a tourism city},\n\
+                author = {Mengyao Ren and Yang Xu and Sangwon Park and Xiao Huang and Mengqi Sun and Jizhe Xia and Sun-Young Koh},\n\
+                journal = {Annals of Tourism Research},\n\
+                volume = {109},\n\
+                pages = {103830},\n\
+                year = {2024},\n\
+                publisher={Elsevier}\n\
+                }"
+        }, 
 
 ]
 

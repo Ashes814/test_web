@@ -12,10 +12,10 @@ const Behavior = () => {
                   subSectionImg="src/assets/images/ResearchArea/behavior/covid_spending.webp"
                   cardList={[
                             {title:"Consumer spending during COVID-19 in a tourism city",
-                                  journal:"Annals of Tourism Research (Forthcoming)",
+                                  journal:"Annals of Tourism Research",
                                   imageFront:"src/assets/images/ResearchArea/behavior/covid_spending_paper01_front.webp",
                                   imageBack:"src/assets/images/JournalCovers/ATR.webp",
-                                  link:"",
+                                  link:"https://doi.org/10.1016/j.annals.2024.103830",
                                   isESI:false
 
                             },
