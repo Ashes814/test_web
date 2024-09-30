@@ -126,10 +126,10 @@ const news = [
       },
       {id:14,
         title:"Curated collection on Covid-19 pandemic and behavior change.",
-        contents: "After several years of dedicated efforts, MSL is pleased to present a curated collection of research articles on Covid-19 pandemic and behavior change. The articles showcase our work on utilizing extensive mobility datasets – including LBS navigation, smart card transactions, and geolocated transaction data – to study how the pandemic has shaped transit usage behavior, tourism travel, and consuming spending within and across cities.",
+        contents: "After several years of dedicated efforts, MSL is pleased to present a curated collection of research articles on Covid-19 pandemic and behavior change. The articles showcase our work on utilizing extensive mobility datasets – including LBS navigation, smart card transactions, and geolocated transaction data – to study how the pandemic has shaped transit usage behavior, tourism travel, and consumer spending within and across cities.",
         date: "Sep 2024",
         site: "Check the Article Collection",
-        image: "src/assets/images/NewsImages/2024_curate.webp",
+        image: "src/assets/images/NewsImages/2024_curate.png",
         link:"#/behavior",
         year:2024
       },
