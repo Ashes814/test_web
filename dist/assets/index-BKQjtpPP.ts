@@ -135,7 +135,7 @@ const news = [
       },
       {id:15,
         title:"New MSL study on the spatial concentration effect of urban tourism activity.",
-        contents: "In response to growing concerns about overtourism, a recent MSL study published in Tourism Management highlights the value of cellphone positioning data for understanding the spatial concentration of urban tourist activities. Analyzing international travelers in three popular South Korean destinations, the study reveals that Asian travelers shows the highest spatial concentration, followed by European and North Americans. The findings underscore the importance of considering travelers’ social backgrounds in tourist flow management.",
+        contents: "In response to growing concerns about overtourism, a recent MSL study published in Tourism Management highlights the value of cellphone positioning data for understanding the spatial concentration of urban tourist activities. Analyzing international travelers in three popular South Korean destinations, the study finds that Asian travelers demonstrate the highest spatial concentration, followed by European and North Americans. The findings underscore the importance of considering travelers’ social backgrounds in tourist flow management.",
         date: "Oct 2024",
         site: "Check the paper in Tourism Management",
         image: "src/assets/images/NewsImages/2024_urban_tourism.webp",
