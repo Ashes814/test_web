@@ -1497,7 +1497,7 @@ const publications = [
         }, 
       {id: 64,
         title: "State-of-the-art review of smart energy management systems for supporting zero-emission electric vehicles with X2V and V2X interactions.",
-        authors: "Senthil Kumar, G., Guo, X., Zhou, S., Luo, H., Wu, Q., Liu, Y., Dou, Z., Pan, K., Xu, Y., Yang, H., Cao, S.",
+        authors: "Kumar, G.M.S., Guo, X., Zhou, S., Luo, H., Wu, Q., Liu, Y., Dou, Z., Pan, K., Xu, Y., Yang, H., Cao, S.",
         journal: "Renewable and Sustainable Energy Reviews, 208, p.115050.",
         year: 2024,
         doi: "https://www.sciencedirect.com/science/article/pii/S1364032124007767",
