@@ -106,7 +106,7 @@ const news = [
       year: 2023
       },
       {id:12,
-        title:"MSL Phd student began exchange at EPFL.",
+        title:"MSL PhD student began exchange at EPFL.",
         contents: "The Mobility Science Lab is delighted to announce that Yuqian Lin started her exchange program at Lab for Human-Oriented Mobility Eco-System (HOMES) at École Polytechnique Fédérale de Lausanne (EPFL) from 1 February, 2024. Yuqian is currently a PhD student at The Hong Kong Polytechnic University, supervised by Prof. Yang Xu. Her research focuses on human travel behavior and shared mobility. The exchange program will further rich her research experience and international academic connections.",
         date: "1 Feb 2024",
         site: "EPFL",
@@ -116,7 +116,7 @@ const news = [
 
       },
       {id:13,
-        title:"MSL Phd student began exchange at University College London.",
+        title:"MSL PhD student began exchange at University College London.",
         contents: "The Mobility Science Lab is delighted to announce that Mengqi Sun, our third-year PhD student, has commenced an exchange program at the Bartlett Centre for Advanced Spatial Analysis (CASA) at University College London (UCL). This exchange is generously supported by the Research Student Attachment Programme at the Hong Kong Polytechnic University. CASA is renowned for its innovative research in urban science and spatial analysis, employing advanced computational methods to address complex spatial challenges. The centre excels in integrating urban planning, data science, and geographical information systems (GIS) to create pioneering solutions for real-world problems.",
         date: "May 2024",
         site: "UCL",
@@ -140,6 +140,15 @@ const news = [
         site: "Check the paper in Tourism Management",
         image: "src/assets/images/NewsImages/2024_urban_tourism.webp",
         link:"https://doi.org/10.1016/j.tourman.2024.105064",
+        year:2024
+      },
+      {id:16,
+        title:"MSL PhD student won ICA Scholarship in the First Asian Cartographic Conference.",
+        contents: "The First Asian Cartographic Conference (AsiaCarto 2024) was organized by the International Cartographic Association (ICA) and held at The Hong Kong Polytechnic University from December 8-10, 2024. AsiaCarto 2024 marked the initiation of the first regional cartographic conferences (RCC) in Asia and attracted hundreds of researchers who participated and shared their work in sixteen parallel sessions on cartography, human mobility, and spatial cognition. An MSL PhD student, Bowen SHI, was awarded the ICA Scholarship at this conference.",
+        date: "Dec 2024",
+        site: "AsiaCarto 2024",
+        image: "src/assets/images/NewsImages/2024_AsiaCarto.webp",
+        link:"https://asiacarto.org/2024",
         year:2024
       },
 
