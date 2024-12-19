@@ -5,6 +5,29 @@ const Sensing = () => {
     <section id="sensing" className="max-w-7xl mx-auto mt-40">
       <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-24">MOBILITY SENSING & ANALYTICS</h2>
 
+      {/* <ResearchProject subSectionTitle="Profiling Drivers'  Mobility Behavior through Trajectory Trait"
+                       subSectionText="Inspired by the Big Five personality traits, this study develops a novel trajectory trait scale (TTS) that can be used to quantify individual drivers' mobility behavior across four key dimensions: extroversion, openness, neuroticism, and conscientiousness. By validating the model using extensive, longitudinal GPS trajectories from 2,051 private vehicle volunteers, the study demonstrates that the TTS can provide deep insights into the intrinsic characteristics of drivers' trajectory traits. The results also reveal the hidden linkage between drivers' mobility profile and external behavioral observations, such as customer service records related to life rescue and traffic violation queries. Additionally, the TTS may inform the interplay between trajectory traits and personality traits. The proposed driver profiling model has significant implications for driving safety, targeted advertising, usage-based insurance, and more."
+                       subSectionAnno={"Collaborative Research (Lead PI: Zhipeng Gui @ WHU)"}
+                       subSectionImg="src/assets/images/ResearchArea/sensing/trait.webp"
+                       cardList={[
+                                  {title:"Profiling mobility patterns and driving behaviors of individual drivers via trajectory trait",
+                                        journal:"The Innovation Geoscience",
+                                        imageFront:"src/assets/images/ResearchArea/sensing/trait_paper01_front.webp",
+                                        imageBack:"src/assets/images/JournalCovers/CEUS.webp",
+                                        link:"",
+                                        isESI: false
+                                  }
+                                ]}
+                        videoList={[
+                                   
+                        ]}
+                        coverCard={{
+                              coverImage:"src/assets/images/JournalCovers/TIG.jpg",
+                              link: ""
+                            }}
+                        year={"2023 - 2025"}
+                                /> */}
+
       <ResearchProject subSectionTitle="Human Mobility and Socioeconomic Status"
                        subSectionText="This study leverages large-scale cellphone data combined with socioeconomic data from Singapore and Boston to extract six widely recognized mobility indicators and conducts a thorough analysis of how these indicators correlate with the estimated socioeconomic status (SES) of cellphone users. The research uncovers two key insights: firstly, the relationship between movement radius and SES tends to vary across different urban environments. Specifically, it is found that phone user groups that are generally richer tend to travel shorter in Singapore but longer in Boston; secondly, there is no significant correlation between the diversity of an individual's mobility behavior and their socioeconomic status. These findings, which have been widely confirmed by subsequent studies, underscore the complex interplay between human mobility patterns and socioeconomic characteristics."
                        subSectionAnno={null}
@@ -21,7 +44,7 @@ const Sensing = () => {
                         videoList={[
                                     {
                                       year:2021,
-                                      title:"Editor’s Choice\n(in Chinese)",
+                                      title:"Editor's Choice\n(in Chinese)",
                                       imageFront:"src/assets/images/ResearchArea/sensing/human_mobility_media.webp",
                                       youTubeLink:"https://mp.weixin.qq.com/s/CQ0OYsqlaq6tyWEmhoNE1g",
                                       bilibiliLink:"",
