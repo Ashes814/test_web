@@ -340,14 +340,15 @@ const awards = [
   },
   {id: 8,
     year:2023,
-    name: "地理信息科技进步奖，一等奖",
-    asso:"中国地理信息产业协会 (China Association for Geospatial Industry and Sciences)"
+    name: "FrontRunner 5000, Top articles in outstanding S&T Journals of China",
+    asso:"Institute of Scientific and Technical Information of China"
   },
   {id: 9,
     year:2023,
-    name: "FrontRunner 5000(领跑者5000), Top articles in outstanding S&T Journals of China",
-    asso:"Institute of Scientific and Technical Information of China"
+    name: "地理信息科技进步奖，一等奖",
+    asso:"中国地理信息产业协会 (China Association for Geospatial Industry and Sciences)"
   },
+ 
 ]
 
 const publications = [
