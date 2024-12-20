@@ -345,7 +345,7 @@ const awards = [
   },
   {id: 9,
     year:2023,
-    name: "地理信息科技进步奖，一等奖",
+    name: "地理信息科技进步奖, 一等奖",
     asso:"中国地理信息产业协会 (China Association for Geospatial Industry and Sciences)"
   },
  
